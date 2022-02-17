@@ -21,6 +21,8 @@ namespace Exercises_OOP_10_02_2022.Exercises
         public void packageDeliveryservice()
 
         {
+            Console.WriteLine("THIS IS QUESTION 1");
+
             string[] Eircode = { "D01", "D02", "D03", "D04", "D05", "D06", "D07", "D08", "D09", "D10"};
             int[] code = { 1,2,3,4,5,6,7,8,9,10};
 
